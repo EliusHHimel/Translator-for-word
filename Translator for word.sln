@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Translator for word", "Translator for word.csproj", "{A897DA8F-1DB4-4A1B-A3A3-72506B2F0857}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Translator for wordWeb", "..\Translator for wordWeb\Translator for wordWeb.csproj", "{2F77B2F3-E07D-414E-982E-10F06A1541C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A897DA8F-1DB4-4A1B-A3A3-72506B2F0857}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A897DA8F-1DB4-4A1B-A3A3-72506B2F0857}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A897DA8F-1DB4-4A1B-A3A3-72506B2F0857}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A897DA8F-1DB4-4A1B-A3A3-72506B2F0857}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A897DA8F-1DB4-4A1B-A3A3-72506B2F0857}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A897DA8F-1DB4-4A1B-A3A3-72506B2F0857}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{2F77B2F3-E07D-414E-982E-10F06A1541C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F77B2F3-E07D-414E-982E-10F06A1541C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F77B2F3-E07D-414E-982E-10F06A1541C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F77B2F3-E07D-414E-982E-10F06A1541C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD8BC0BA-6DB0-41B1-947C-14D02BE60CDB}
+	EndGlobalSection
+EndGlobal
